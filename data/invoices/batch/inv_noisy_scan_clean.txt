@@ -1,0 +1,24 @@
+*** SCANNED COPY - PAGE 1 OF 1 ***
+PO: PO-60883    Tel: +1 555 594 2286
+INVOICE #INV-EVAL-0110
+
+Vendor: Apex Cloud   Technologies Ltd.
+
+Payment Terms:   Net 45
+
+
+Line Items:
+1. Enterprise Managed   Services service - 36   hrs @   $174.16/hr = $6,269.76
+2. Enterprise   Security   Log Review   service - 6 hrs @ $162.40/hr = $974.40
+
+
+
+Subtotal: $7,244.16
+Tax:   $724.42
+
+Grand Total: $7,968.58
+
+
+Remit to: First National Bank   Acct 2810144999
+Questions? accounts@vendor.example
+Thank you for your business!

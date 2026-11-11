@@ -1,0 +1,11 @@
+INVOICE #INV-EVAL-0100
+Vendor: Apex Cloud Technologies Ltd.
+Payment Terms: Net 45
+
+Line Items:
+1. Enterprise Security Log Review service - 70 hrs @ $194.20/hr = $13,594.00
+2. Enterprise Managed Services service - 29 hrs @ $154.83/hr = $4,490.07
+
+Subtotal: $18,084.07
+Tax: $1,808.41
+Grand Total: $19,892.48

@@ -1,0 +1,11 @@
+INVOICE NO: INV-EVAL-0103        DATE: 2026-03-14
+BILL FROM:  Apex Cloud Technologies Ltd.
+TERMS:      Net 15
+
+ # | Description                                | Qty   |       Rate |       Amount
+----------------------------------------------------------------------------------
+ 1 | Enterprise Managed Services service        |    72 |     195.90 |    14,104.80
+----------------------------------------------------------------------------------
+                                                    Subtotal      14,104.80
+                                                   Tax (10%)       1,410.48
+                                             TOTAL DUE (USD)      15,515.28

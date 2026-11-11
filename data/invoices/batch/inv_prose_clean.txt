@@ -1,0 +1,13 @@
+Subject: Invoice INV-EVAL-0106
+
+Hi Accounts Payable team,
+
+Please find our invoice INV-EVAL-0106 for services delivered this month. We billed:
+ - 37 hours of Enterprise Security Log Review service at $172.61 per hour, which comes to $6,386.57
+ - 34 hours of Enterprise Managed Services service at $166.98 per hour, which comes to $5,677.32
+
+The subtotal is $12,063.89 and tax is $1,206.39, so the total due is $13,270.28. Payment terms: Net 45.
+
+Kind regards,
+Billing Team
+Apex Cloud Technologies Ltd.

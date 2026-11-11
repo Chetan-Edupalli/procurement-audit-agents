@@ -1,0 +1,10 @@
+Invoice No.: INV-EVAL-0105
+Supplier: Apex Cloud Technologies Ltd.
+Payment: 30 days net
+Currency: USD
+
+Pos 1: Enterprise Managed Services service; 42 h x 224,89 = 9.445,38
+
+Net amount: 9.445,38
+VAT: 944,54
+Amount payable: 10.389,92

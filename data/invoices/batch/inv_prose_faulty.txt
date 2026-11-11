@@ -1,0 +1,12 @@
+Subject: Invoice INV-EVAL-0107
+
+Hi Accounts Payable team,
+
+Please find our invoice INV-EVAL-0107 for services delivered this month. We billed:
+ - 77 hours of Enterprise Managed Services service at $212.77 per hour, which comes to $16,383.29
+
+The subtotal is $16,383.29 and tax is $1,638.33, so the total due is $18,021.62. Payment terms: Net 30.
+
+Kind regards,
+Billing Team
+Apex Cloud Technologies Ltd.

@@ -1,0 +1,19 @@
+*** SCANNED COPY - PAGE 1 OF 1 ***
+PO: PO-12786    Tel: +1 555 712 2226
+INVOICE #INV-EVAL-0111
+Vendor: Apex Cloud Technologies   Ltd.
+Payment   Terms:   Due on receipt
+
+Line Items:
+
+1.   Enterprise Managed Services   service   - 9 hrs   @ $206.05/hr = $1,854.45
+
+Subtotal: $1,854.45
+
+Tax:   $185.44
+
+Grand Total: $2,039.89
+
+Remit to: First National Bank   Acct 3071186680
+Questions? accounts@vendor.example
+Thank you for your business!

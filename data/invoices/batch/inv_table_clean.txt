@@ -1,0 +1,11 @@
+INVOICE NO: INV-EVAL-0102        DATE: 2026-03-14
+BILL FROM:  Apex Cloud Technologies Ltd.
+TERMS:      Net 45
+
+ # | Description                                | Qty   |       Rate |       Amount
+----------------------------------------------------------------------------------
+ 1 | Enterprise Security Log Review service     |    62 |     186.16 |    11,541.92
+----------------------------------------------------------------------------------
+                                                    Subtotal      11,541.92
+                                                   Tax (10%)       1,154.19
+                                             TOTAL DUE (USD)      12,696.11

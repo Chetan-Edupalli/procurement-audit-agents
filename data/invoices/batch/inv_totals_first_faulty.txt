@@ -1,0 +1,13 @@
+INVOICE SUMMARY
+Reference: INV-EVAL-0109
+Billed by: Apex Cloud Technologies Ltd.
+Amount due: $25,989.09 USD
+  of which tax: $2,362.64
+  net amount: $23,626.45
+Terms: payable within 15 days
+
+DETAIL
+Item 1: Enterprise Security Log Review service
+  Hours: 77   Rate: $225.56   Amount: $17,368.12
+Item 2: Enterprise Managed Services service
+  Hours: 39   Rate: $160.47   Amount: $6,258.33

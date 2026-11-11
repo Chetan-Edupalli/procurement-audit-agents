@@ -1,0 +1,11 @@
+{
+  "contract_id": "MSA-2025-0417",
+  "vendor_name": "Apex Cloud Technologies Ltd.",
+  "currency": "USD",
+  "payment_terms_days": 45,
+  "tax_rate": "0.10",
+  "rate_card": [
+    {"service": "Managed Services", "keywords": ["managed services"], "max_unit_price": "185.00"},
+    {"service": "Security Log Review", "keywords": ["security log", "log review"], "max_unit_price": "200.00"}
+  ]
+}

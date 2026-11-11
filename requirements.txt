@@ -1,0 +1,6 @@
+langgraph>=1.0
+langchain-core>=1.0
+langchain-ollama>=1.0
+pydantic>=2.6
+pypdf>=5.0
+pytest>=8.0

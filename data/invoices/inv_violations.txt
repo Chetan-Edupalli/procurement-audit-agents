@@ -1,0 +1,11 @@
+INVOICE #INV-2026-9041
+Vendor: Apex Cloud Technologies Ltd.
+Payment Terms: Net 15
+
+Line Items:
+1. Cloud Infrastructure Managed Services - 40 hrs @ $175.00/hr = $7,000.00
+2. Enterprise Security Log Review - 10 hrs @ $220.00/hr = $2,200.00
+
+Subtotal: $9,200.00
+Tax: $920.00
+Grand Total: $10,120.00

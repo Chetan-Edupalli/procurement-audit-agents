@@ -1,0 +1,10 @@
+Invoice No.: INV-EVAL-0104
+Supplier: Apex Cloud Technologies Ltd.
+Payment: 45 days net
+Currency: USD
+
+Pos 1: Enterprise Security Log Review service; 46 h x 177,62 = 8.170,52
+
+Net amount: 8.170,52
+VAT: 817,05
+Amount payable: 8.987,57
